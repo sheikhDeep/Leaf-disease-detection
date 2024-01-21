@@ -2,7 +2,7 @@
 
 # Motive
   [](https://github.com/sheikhDeep/Leaf-disease-detection/blob/main/reference-images/hugg.png)
-  The purpose of this project is to create an application that can detect various kinds of leaf diseases. This app can detect the name of the leaf. It can also detect if the leaf is diseased or not and will also tell the disease name. It can detect seven kinds of leafs and their diseases.
+  The purpose of this project is to create an application that can detect various kinds of leaf diseases. This app can detect the name of the leaf. It can also detect if the leaf is diseased or not and will also tell the disease name. It can detect seven kinds of leaves and their diseases.
   The leaves are - `Banana`, `Cucumber`, `Mango`, `Maple`, `Pepper`, `Rose`, `Tomato`. The diseases are - `Sigatoka`, `Powdery-mildew`, `Anthracnose`, `Leaf-spot`. 
 
 # Data Collection
